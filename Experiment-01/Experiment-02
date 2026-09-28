@@ -1,1 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Basic To-Do App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>My Daily Tasks</h1>
+  <input type="text" id="taskInputBox" placeholder="What needs to be done?">
+  <button id="addBtn">Add</button>
+  <ul id="taskContainer"></ul>
+
+  <script src="script.js"></script>
+</body>
+</html>
 
